@@ -1,0 +1,5 @@
+{
+  "name": "YPL - Yarn Platform Library",
+  "description": "A yarn virtual warehouse and cross-departmental decision support platform for managing yarn inventory, analyzing product associations, and assisting in development decisions.",
+  "requestFramePermissions": []
+}
